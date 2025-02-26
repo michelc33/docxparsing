@@ -1,6 +1,3 @@
-Here's a draft of a README for your `docxparsing` repository:
-
----
 
 # docxparsing
 
